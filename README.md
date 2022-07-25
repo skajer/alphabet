@@ -1,1 +1,1 @@
-# q
+# random skrypt z dawnej zabawy 
