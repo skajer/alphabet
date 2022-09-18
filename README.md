@@ -1,3 +1,3 @@
 # random skrypt z dawnej zabawy 
 
-Zamienia alfabet na odwrotną kolejność i z powrotem
+Change the order of alphabet in diffrent way
