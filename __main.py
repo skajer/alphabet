@@ -1,4 +1,4 @@
-# X - konwertuje tekst jako odwórcony alfabet, Y - "dekodcuje" odwrócony tekst
+# X - converts alphabet backwards, Y - "decodes" X function
 
 def x(string):
 
@@ -14,7 +14,7 @@ while True:
 
     global users_input
 
-    print('Wybierz funkcje: x lub y ')
+    print('Choose function: x or y ')
     users_input = input()
     
     if users_input == "x":
@@ -47,3 +47,6 @@ while True:
             return string, print(y(string))
 
         st2()
+
+
+### 😎
